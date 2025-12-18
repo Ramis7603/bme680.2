@@ -39,7 +39,9 @@ Beispiel:
 
 ## E-Mail (optional)
 
+```json
 {
   -EMAIL_ENABLED = True   # E-Mail aktiv
   -EMAIL_ENABLED = False  # E-Mail deaktiviert
 }
+```
