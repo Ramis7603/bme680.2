@@ -47,9 +47,7 @@ Beispiel:
 
 ## E-Mail (optional)
 
-```json
-{
+
 Wenn du im Code `EMAIL_ENABLED = True` setzt,  
 dann versendet der Pico W die Messdaten automatisch per E-Mail.
-}
-```
+
