@@ -8,6 +8,14 @@ Optional können die Daten auch **per E-Mail** verschickt werden.
 
 ---
 
+## Offene Punkte / Weiterentwicklung
+
+- Für einen mobilen Betrieb wird noch eine **passende Batterie** benötigt
+- Zusätzlich werden **4× Female-to-Female Jumper-Kabel** benötigt, um den Aufbau sauber und dauerhaft zu verbinden
+
+
+---
+
 ## Funktion
 
 - Messung von:
