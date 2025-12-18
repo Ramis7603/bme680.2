@@ -39,5 +39,7 @@ Beispiel:
 
 ## E-Mail (optional)
 
--EMAIL_ENABLED = True   # E-Mail aktiv
--EMAIL_ENABLED = False  # E-Mail deaktiviert
+{
+  -EMAIL_ENABLED = True   # E-Mail aktiv
+  -EMAIL_ENABLED = False  # E-Mail deaktiviert
+}
