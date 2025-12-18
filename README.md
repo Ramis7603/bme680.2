@@ -33,3 +33,11 @@ Beispiel:
   "pressure": 1012.3,
   "gas_resistance": 123456
 }
+```
+
+---
+
+## E-Mail (optional)
+
+-EMAIL_ENABLED = True   # E-Mail aktiv
+-EMAIL_ENABLED = False  # E-Mail deaktiviert
