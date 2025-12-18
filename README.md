@@ -49,7 +49,7 @@ Beispiel:
 
 ```json
 {
-  -EMAIL_ENABLED = True   # E-Mail aktiv
-  -EMAIL_ENABLED = False  # E-Mail deaktiviert
+Wenn du im Code `EMAIL_ENABLED = True` setzt,  
+dann versendet der Pico W die Messdaten automatisch per E-Mail.
 }
 ```
